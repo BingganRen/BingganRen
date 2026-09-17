@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## I am a UX student and a gamer 👾
 <!--
 **BingganRen/BingganRen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
